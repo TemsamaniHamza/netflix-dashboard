@@ -6,7 +6,7 @@ from PIL import Image
 
 st.set_page_config(page_title="Netflix Analysis", page_icon="🎬", layout="wide")
 
-df = pd.read_csv("../netflix_data/netflix_titles.csv")  
+df = pd.read_csv("netflix_data/netflix_titles.csv")  
 
 logo = Image.open("images.png")
 
