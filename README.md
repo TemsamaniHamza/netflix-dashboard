@@ -1,32 +1,52 @@
-# Netflix Content Analysis Dashboard
+# Netflix Dashboard 📊
 
-Interactive dashboard analyzing 8,000+ Netflix titles.
+A interactive data visualization dashboard for Netflix content analysis built with Streamlit.
 
-## Features
-- Content distribution (Movies vs Shows)
-- Growth trends over time
-- Top producing countries
-- Genre analysis
-- Interactive filters
+## 🚀 Live Demo
 
-## Tech Stack
-- Python
-- Pandas
-- Streamlit
-- Plotly
+[View Live Dashboard](https://netflix-dashboard-pix.streamlit.app/)
 
-## Run Locally
+## 📋 Features
+
+- Interactive data visualizations using Plotly
+- Netflix content analysis
+- [Add your specific features here]
+
+## 🛠️ Technologies Used
+
+- **Streamlit** - Web framework
+- **Pandas** - Data manipulation
+- **Plotly** - Interactive visualizations
+- **NumPy** - Numerical computations
+
+## 📦 Installation
 ```bash
+# Clone the repository
+git clone https://github.com/TemsamaniHamza/netflix-dashboard.git
+
+# Navigate to project directory
+cd netflix-dashboard
+
+# Install dependencies
 pip install -r requirements.txt
-streamlit run app.py
+
+# Run the app
+streamlit run streamlit_app.py
 ```
 
-## Live Demo
-[Add Streamlit Cloud link]
-```
+## 📊 Dataset
 
-Create `requirements.txt`:
-```
-pandas
-streamlit
-plotly
+[Describe your Netflix dataset here - where it's from, what it contains]
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## 📝 License
+
+[Your license here - e.g., MIT]
+
+## 👤 Author
+
+**Hamza Temsamani**
+- GitHub: [@TemsamaniHamza](https://github.com/TemsamaniHamza)
