@@ -9,7 +9,7 @@
 
 **An interactive data visualization dashboard for exploring Netflix's content catalog**
 
-[Live Demo](https://netflix-dashboard-pix.streamlit.app/) • [Features](#features) • [Installation](#installation) • [Usage](#usage)
+[Live Demo](https://netflix-dashboard-pix.streamlit.app/) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage)
 
 </div>
 
@@ -17,19 +17,19 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Dashboard Features](#dashboard-features-explained)
-- [How the Filters Work](#how-the-filters-work)
-- [Design Decisions](#design-decisions)
-- [Key Insights](#key-insights)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Getting Started](#-getting-started)
+- [Dashboard Features](#-dashboard-features-explained)
+- [How the Filters Work](#-how-the-filters-work)
+- [Design Decisions](#-design-decisions)
+- [Key Insights](#-key-insights)
+- [Future Enhancements](#-future-enhancements)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
