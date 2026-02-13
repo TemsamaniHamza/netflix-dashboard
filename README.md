@@ -27,7 +27,6 @@
 - [How the Filters Work](#how-the-filters-work)
 - [Design Decisions](#design-decisions)
 - [Key Insights](#key-insights)
-- [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
@@ -354,19 +353,6 @@ Light Gray (#f6f7fb):    Background
    - TV-MA (Mature Audiences) is most common
    - Indicates focus on adult-oriented content
    - Family content (TV-G, PG) is smaller portion
-
----
-
-## 📸 Screenshots
-
-### Main Dashboard
-![Dashboard Overview](screenshots/overview.png)
-
-### Filter in Action
-![Filters](screenshots/filters.png)
-
-### Visualizations
-![Charts](screenshots/charts.png)
 
 ---
 
