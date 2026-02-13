@@ -9,7 +9,7 @@
 
 **An interactive data visualization dashboard for exploring Netflix's content catalog**
 
-[Live Demo](#getting-started) • [Features](#features) • [Installation](#installation) • [Usage](#usage)
+[Live Demo](https://netflix-dashboard-pix.streamlit.app/) • [Features](#features) • [Installation](#installation) • [Usage](#usage)
 
 </div>
 
