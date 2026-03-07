@@ -416,31 +416,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
----
-
 ## 🙏 Acknowledgments
 
 - **Dataset**: Netflix Titles Dataset from Kaggle
 - **Streamlit**: Amazing framework for data apps
 - **Plotly**: Powerful visualization library
 - **Netflix**: Inspiration for design and content
-
----
-
-## 📞 Contact & Support
-
-Have questions or suggestions?
-
-- **Open an issue**: [GitHub Issues](https://github.com/yourusername/netflix-dashboard/issues)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
